@@ -143,9 +143,7 @@
   },
   "peerDependencies": {
     "@babel/runtime": "7.x",
-    "prop-types": "15.x",
-    "react-dom": "17.x",
-    "react": "17.x"
+    "prop-types": "15.x"
   },
   "snyk": true
 }
